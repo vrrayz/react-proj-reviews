@@ -61,6 +61,7 @@ const ReviewCard = () => {
             </svg>
           </button>
         </div>
+        <button className="btn mb-3">Suprise Me</button>
       </div>
     </div>
   );
